@@ -1,0 +1,4 @@
+echo "Upgrading pip..."
+pip install --upgrade pip
+echo "Installing packaging..."
+pip install packaging
